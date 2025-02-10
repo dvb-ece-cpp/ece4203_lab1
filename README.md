@@ -200,7 +200,7 @@ The last part of the set-up we will do in this lab is to run the shell script in
 
 Type the following at the command prompt to run this script:
 
-    ~/ece4203-lab1/install_miniconda.sh
+    ~/ece4203_lab1/install_miniconda3.sh
     
 This will take a while to finish, and will install the Anaconda software package system so that we can later install the VLSI tools.
 
